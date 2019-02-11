@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">MyMovieCatalog</string>
+    <string-array name="judulfilm">
+        <item>Glass</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Mortal Engines</item>
+        <item>A Star Is Born</item>
+        <item>Robin Hood</item>
+        <item>Aquaman</item>
+        <item>Creed II</item>
+        <item>How to Train Your Dragon The Hidden World</item>
+        <item>Bumblebee</item>
+        <item>The Mule</item>
+        <item>The Girl in the Spiders Web</item>
+        <item>Avengers Infinity War</item>
+        <item>Hunter Killer</item>
+        <item>Venom</item>
+        <item>Bird Box</item>
+        <item>Once Upon a Deadpool</item>
+        <item>DragonBall Broly</item>
+        <item>Mary Poppins Returns</item>
+        <item>Spider-Man: Into the Spider Verse</item>
+        <item>Preman Pensiun</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>in a series of escalating encounters, security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men</item>
+        <item>Singer Freddie Mercury,guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock n roll band Queen in 1970. Hit songs become instant classics. When Mercurys increasingly wild lifestyle starts to spiral out of control Queen soon faces its greatest challenge yet finding a way to keep the band together amid the success and excess.</item>
+        <item>Set in a world many thousands of years in the future Earths cities now roam the globe on huge wheels devouring each other in a struggle for ever diminishing resources.On one of these massive Traction Cities Tom Natsworthy has an unexpected encounter with a mysterious young woman from the Outlands who will change the course of his life forever.</item>
+        <item>seasoned musician Jackson Maine discovers and falls in love with struggling artist Ally She has just about given up on her dream to make it big as a singer until Jack coaxes her into the spotlight. But even as Allys career takes off the personal side of their relationship is breaking down as Jack fights an ongoing battle with his own internal demons.</item>
+        <item>A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown.</item>
+        <item>once home to the most advanced civilization on Earth, the city of Atlantis is now an underwater kingdom ruled by the power hungry King Orm. With a vast army at his disposal Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Aquaman Orms half human half Atlantean brother and true heir to the throne With help from royal counselor Vulko Aquaman must retrieve the legendary Trident of Atlan and embrace his destiny as protector of the deep.</item>
+        <item>follows Adonis Creeds life inside and outside of the ring as he deals with new found fame, issues with his family, and his continuing quest to become a champion.</item>
+        <item>As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away.  When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.</item>
+        <item>On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken.  When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.</item>
+        <item>A 90 year old horticulturalist and Korean War veteran is caught transporting $3 million worth of cocaine through Illinois for a Mexican drug cartel.</item>
+        <item>Young computer hacker Lisbeth Salander and journalist Mikael Blomkvist find themselves caught in a web of spies, cybercriminals and corrupt government officials.</item>
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.</item>
+        <item>An untested American submarine captain teams with U.S. Navy SEALs to rescue the Russian president, who has been kidnapped by a rogue general.</item>
+        <item>Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.</item>
+        <item>When a mysterious force decimates the worlds population, only one thing is certain if you see it, you take your life. Facing the unknown, Malorie finds love, hope and a new beginning only for it to unravel. Now she must flee with her two children down a treacherous river to the one place left that may offer sanctuary. But to survive, theyll have to undertake the perilous two day journey blindfolded.</item>
+        <item>A kidnapped Fred Savage is forced to endure Deadpools PG13 rendition of Deadpool 2 as a Princess Brideesque story thats full of magic, wonder and zero Fs.</item>
+        <item>Goku and Vegeta encounter Broly a Saiyan warrior unlike any fighter they ve faced before.</item>
+        <item>Decades after her original visit the magical nanny returns to help the Banks siblings and Michaels children through a difficult time in their lives.</item>
+        <item>Teen Miles Morales becomes Spider-Man of his reality, crossing his path with five counterparts from other dimensions to stop a threat for all realities.</item>
+        <item>After three years, the business of Muslihat, who has retired as a thug, has a problem. Sales decline. Muslihat also faces new problems when Safira, her only daughter, grows up in adolescence and begins to be visited by boys. A bigger problem: frictions between his former subordinates.</item>
+    </string-array>
+
+    <array name="poster">
+        <item>@drawable/poster_glass</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_mortalengine</item>
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_robinhood</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_dragon</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_themule</item>
+        <item>@drawable/poster_thegirl</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_hunterkiller</item>
+        <item>@drawable/poster_venom</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_dragonball</item>
+        <item>@drawable/poster_marrypopins</item>
+        <item>@drawable/poster_spiderman</item>
+        <item>@drawable/poster_preman</item>
+    </array>
+
+    <string-array name="tangal_rilis">
+        <item>2019-01-16</item>
+        <item>2018-10-24</item>
+        <item>2018-12-05</item>
+        <item>2018-10-03</item>
+        <item>2018-11-20</item>
+        <item>2018-12-07</item>
+        <item>2018-11-21</item>
+        <item>2019-01-03</item>
+        <item>2018-12-15</item>
+        <item>2018-12-14</item>
+        <item>2018-10-26</item>
+        <item>2018-10-19</item>
+        <item>2018-09-28</item>
+        <item>2018-12-13</item>
+        <item>2018-10-20</item>
+        <item>2018-12-11</item>
+        <item>2019-01-19</item>
+        <item>2018-12-19</item>
+        <item>2018-12-07</item>
+        <item>2019-01-17</item>
+    </string-array>
+
+    <string-array name="rating">
+        <item>6.8</item>
+        <item>8.2</item>
+        <item>6</item>
+        <item>7.5</item>
+        <item>5.8</item>
+        <item>6.8</item>
+        <item>6.8</item>
+        <item>6.7</item>
+        <item>8.1</item>
+        <item>6.5</item>
+        <item>6.3</item>
+        <item>5.8</item>
+        <item>5.9</item>
+        <item>6.6</item>
+        <item>7.1</item>
+        <item>7.2</item>
+        <item>8.3</item>
+        <item>7.2</item>
+        <item>8.5</item>
+        <item>5.9</item>
+    </string-array>
+</resources>
